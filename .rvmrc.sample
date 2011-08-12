@@ -1,0 +1,7 @@
+# .rvmrc.sample
+# illustrates simple way to use rvm with this project. To use (assuming rvm installed)
+#   1. Copy to .rvmrc
+#   2. cd out and into folder
+#   3. accept use of .rvmrc
+# please do not commit a .rvmrc
+rvm --create use @cucumber-tmbundle > /dev/null
